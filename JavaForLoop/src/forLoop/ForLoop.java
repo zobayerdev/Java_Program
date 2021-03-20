@@ -10,6 +10,13 @@ public class ForLoop {
 		{
 			System.out.println(i+ ".  I Love You Nayem");
 		}
+		
+		System.out.println("\nWelCome\n");
+		
+		for(int i=10; i>=1; i--)
+		{
+			System.out.println(i+ ".  I Love You Nayem");
+		}
 	}
 
 }
