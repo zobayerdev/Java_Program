@@ -4,7 +4,7 @@ public class ListOfArray {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Java madarchod kanki magir pola notir pola");
+		System.out.println("Java");
 
 	}
 
