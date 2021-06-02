@@ -5,7 +5,8 @@ public class Contructor {
 	String name, gender;
 	int phone;
 	
-	Contructor (){
+	Contructor ()
+	{
 		
 	}
 	
@@ -26,6 +27,10 @@ public class Contructor {
 		System.out.println("Name : "+name);
 		System.out.println("Gender : "+gender);
 		System.out.println("Phone : "+phone);
+	}
+	
+	int square (int n) {
+		return n*n;
 	}
 
 }
