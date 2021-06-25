@@ -2,13 +2,16 @@ package wrapper_class;
 
 public class StringWrapper {
 
+	@SuppressWarnings("unused")
+	private static String y;
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
 		int x = 100;
 		
 		
-		String y = Integer.toString(x);
+		y = Integer.toString(x);
 		
 		System.out.println("y = "+x);
 		
